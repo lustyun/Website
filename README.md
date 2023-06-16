@@ -1,3 +1,1 @@
-# Website
-
-https://lustyun.github.io/Website/
+# https://lustyun.github.io/Website/
